@@ -1,6 +1,6 @@
-from mini_turtle_oo import turtle_logic
+from mini_turtle_oo.turtle_logic import Tortuga
 
-t = turtle_logic()
+t = Tortuga()
 
 print("Escalón 1")
 t.adelante(5)
