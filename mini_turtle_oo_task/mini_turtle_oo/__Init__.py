@@ -1,4 +1,4 @@
-#__Init__
+#__Init__.py
 
 from .turtle_logic import Tortuga  # importacion de la clase Tortuga desde el modulo turtle_class
 
