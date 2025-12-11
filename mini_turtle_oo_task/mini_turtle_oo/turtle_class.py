@@ -10,3 +10,6 @@ def abajo(self, pasos):
         for _ in range(pasos):
             print(" " * self.posicion_x + "|")
         print(" " * self.posicion_x + "v")
+def reiniciar(self):
+    self.posicion_x = 0
+    print("(Tortuga reiniciada)")
