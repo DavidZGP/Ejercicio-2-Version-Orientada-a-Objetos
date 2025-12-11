@@ -5,3 +5,8 @@ class Turtle_Class:
 def adelante(self, pasos):
         print("-" * pasos + ">")
         self.posicion_x += pasos
+
+def abajo(self, pasos):
+        for _ in range(pasos):
+            print(" " * self.posicion_x + "|")
+        print(" " * self.posicion_x + "v")
