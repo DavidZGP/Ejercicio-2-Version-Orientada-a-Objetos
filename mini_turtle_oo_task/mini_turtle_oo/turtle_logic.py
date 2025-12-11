@@ -1,4 +1,4 @@
-#turtle_Class.py
+#turtle_logic.py
 class Tortuga: # creacion de la clase Tortuga
     def __init__(self):  #  constructor de la clase
         self.posicion_x = 0  # inicializacion de la posicion en x
