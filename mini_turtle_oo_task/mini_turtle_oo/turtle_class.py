@@ -1,5 +1,5 @@
 #Turtle_Class.py
-class Turtle_Class: # creacion de la clase Turtle_Class
+class Tortuga: # creacion de la clase Turtle_Class
     def __init__(self):  #  constructor de la clase
         self.posicion_x = 0  # inicializacion de la posicion en x
 
